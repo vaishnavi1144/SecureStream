@@ -1,0 +1,12 @@
+.venv
+.git
+.gitignore
+.env
+
+__pycache__
+.pytest_cache
+*.pyc
+
+kafka/certs
+tests
+producer
